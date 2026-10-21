@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveFR.Storylines", "FiveFR.Storylines.csproj", "{56FDD674-17A6-4624-BF28-D2833B471369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FDD674-17A6-4624-BF28-D2833B471369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FDD674-17A6-4624-BF28-D2833B471369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FDD674-17A6-4624-BF28-D2833B471369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FDD674-17A6-4624-BF28-D2833B471369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

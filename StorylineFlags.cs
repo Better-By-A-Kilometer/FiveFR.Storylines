@@ -14,6 +14,18 @@ namespace FiveFR.Storylines
         Fled = 8
     }
 
+    /// <summary>How Episode 2 ended. CarDinged is added on top when the Jester was stopped by force (flavour for a later episode).</summary>
+    [Flags]
+    public enum Ep2Outcome
+    {
+        None = 0,
+        Warned = 1,
+        Cited = 2,
+        Arrested = 4,
+        Escorted = 8,
+        CarDinged = 16
+    }
+
     /// <summary>Persistent storyline flags (resource KVP), so later episodes can remember earlier choices.</summary>
     public static class StorylineFlags
     {

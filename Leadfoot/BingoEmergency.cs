@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using CitizenFX.Core;
-using CitizenFX.Core.Native;
 using FiveFR._API.Attributes;
 using FiveFR._API.Classes;
 using FiveFR._API.Entities;
@@ -11,7 +10,7 @@ using FiveFR._API.Extensions;
 using FiveFR._API.Radio;
 using FiveFR._API.Services;
 
-namespace FiveFR.Storylines
+namespace FiveFR.Storylines.Leadfoot
 {
     [AddonProperties("Leadfoot Bingo", "DevKilo", "1.0.0")]
     public class BingoEmergency : Callout

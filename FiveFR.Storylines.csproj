@@ -49,7 +49,8 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="MabelLarson\BingoEmergency.cs" />
+        <Compile Include="Leadfoot\BingoEmergency.cs" />
+        <Compile Include="Leadfoot\KeepinItWarm.cs" />
         <Compile Include="Profiles.cs" />
         <Compile Include="StorylineFlags.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
